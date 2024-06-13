@@ -173,7 +173,7 @@
         <collision name='collision'>
           <geometry>
             <box>
-              <size>0.5 10.0 2.0</size>
+              <size>0.5 16.0 2.0</size>
             </box>
           </geometry>
         </collision>
@@ -207,7 +207,7 @@
         <collision name='collision'>
           <geometry>
             <box>
-              <size>0.5 10.0 2.0</size>
+              <size>0.5 16.0 2.0</size>
             </box>
           </geometry>
         </collision>
@@ -240,7 +240,7 @@
         <collision name='collision'>
           <geometry>
             <box>
-              <size>0.5 10.0 2.0</size>
+              <size>0.5 16.0 2.0</size>
             </box>
           </geometry>
         </collision>
@@ -273,7 +273,7 @@
         <collision name='collision'>
           <geometry>
             <box>
-              <size>0.5 10.0 2.0</size>
+              <size>0.5 16.0 2.0</size>
             </box>
           </geometry>
         </collision>

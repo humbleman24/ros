@@ -141,7 +141,7 @@ Visualization Manager:
       Topic:
         Depth: 5
         Durability Policy: Volatile
-        Filter size: 500
+        Filter size: 100
         History Policy: Keep Last
         Reliability Policy: Reliable
         Value: /scan

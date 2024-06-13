@@ -266,14 +266,14 @@
         <pose>0 0 0 0 0 0</pose>
         <topic>scan</topic>
         <ignition_frame_id>vehicle_blue/lidar_link</ignition_frame_id>
-        <update_rate>500</update_rate>
+        <update_rate>100</update_rate>
         <lidar>
           <scan>
             <horizontal>
               <samples>640</samples>
               <resolution>1</resolution>
-              <min_angle>-3.14159265359</min_angle>
-              <max_angle>3.14159265359</max_angle>
+              <min_angle>-2.3561944901</min_angle>
+              <max_angle>2.3561944901</max_angle>
             </horizontal>
             <vertical>
               <samples>1</samples>

@@ -13,7 +13,7 @@ class VelocityPublisher(Node):
         self.flag = 1
     def scan_callback(self, msg):
         self.count += 1
-        if self.count > 400:
+        if self.count > 800:
             self.count = 0
             r = random.uniform(-1,1)
             if r < 0:
@@ -28,7 +28,7 @@ class VelocityPublisher(Node):
         lidar_range = msg.ranges
         detect_wall = False
         for dist in lidar_range:
-            if dist < 1.5:
+            if dist < 1:
                 detect_wall = True
                 break
 
