@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/asm_gazebo/asm_gazebo.egg-info
+writing ../../build/asm_gazebo/asm_gazebo.egg-info/PKG-INFO
+writing dependency_links to ../../build/asm_gazebo/asm_gazebo.egg-info/dependency_links.txt
+writing entry points to ../../build/asm_gazebo/asm_gazebo.egg-info/entry_points.txt
+writing requirements to ../../build/asm_gazebo/asm_gazebo.egg-info/requires.txt
+writing top-level names to ../../build/asm_gazebo/asm_gazebo.egg-info/top_level.txt
+writing manifest file '../../build/asm_gazebo/asm_gazebo.egg-info/SOURCES.txt'
+reading manifest file '../../build/asm_gazebo/asm_gazebo.egg-info/SOURCES.txt'
+writing manifest file '../../build/asm_gazebo/asm_gazebo.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/robot/rg_ws/build/asm_gazebo/build
+creating /home/robot/rg_ws/build/asm_gazebo/build/lib
+creating /home/robot/rg_ws/build/asm_gazebo/build/lib/asm_gazebo
+copying asm_gazebo/__init__.py -> /home/robot/rg_ws/build/asm_gazebo/build/lib/asm_gazebo
+running install
+running install_lib
+creating /home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages/asm_gazebo
+copying /home/robot/rg_ws/build/asm_gazebo/build/lib/asm_gazebo/__init__.py -> /home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages/asm_gazebo
+byte-compiling /home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages/asm_gazebo/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/robot/rg_ws/install/asm_gazebo/share/ament_index
+creating /home/robot/rg_ws/install/asm_gazebo/share/ament_index/resource_index
+creating /home/robot/rg_ws/install/asm_gazebo/share/ament_index/resource_index/packages
+copying resource/asm_gazebo -> /home/robot/rg_ws/install/asm_gazebo/share/ament_index/resource_index/packages
+copying package.xml -> /home/robot/rg_ws/install/asm_gazebo/share/asm_gazebo
+creating /home/robot/rg_ws/install/asm_gazebo/share/asm_gazebo/world
+copying world/sensor.sdf -> /home/robot/rg_ws/install/asm_gazebo/share/asm_gazebo/world
+running install_egg_info
+Copying ../../build/asm_gazebo/asm_gazebo.egg-info to /home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages/asm_gazebo-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/robot/rg_ws/build/asm_gazebo/install.log'

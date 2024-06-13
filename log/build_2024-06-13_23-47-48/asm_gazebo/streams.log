@@ -1,0 +1,20 @@
+[0.532s] Invoking command in '/home/robot/rg_ws/src/asm_gazebo': AMENT_PREFIX_PATH=/home/robot/rg_ws/install/asm_description:/home/robot/rg_ws/install/asm_node:/home/robot/rg_ws/install/asm_bringup:/home/robot/rg_ws/install/asm_gazebo:/opt/ros/humble PYTHONPATH=/home/robot/rg_ws/build/asm_gazebo/prefix_override:/home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_description/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_bringup/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_gazebo build --build-base /home/robot/rg_ws/build/asm_gazebo/build install --record /home/robot/rg_ws/build/asm_gazebo/install.log --single-version-externally-managed install_data
+[0.758s] running egg_info
+[0.758s] writing ../../build/asm_gazebo/asm_gazebo.egg-info/PKG-INFO
+[0.759s] writing dependency_links to ../../build/asm_gazebo/asm_gazebo.egg-info/dependency_links.txt
+[0.759s] writing entry points to ../../build/asm_gazebo/asm_gazebo.egg-info/entry_points.txt
+[0.759s] writing requirements to ../../build/asm_gazebo/asm_gazebo.egg-info/requires.txt
+[0.759s] writing top-level names to ../../build/asm_gazebo/asm_gazebo.egg-info/top_level.txt
+[0.761s] reading manifest file '../../build/asm_gazebo/asm_gazebo.egg-info/SOURCES.txt'
+[0.761s] writing manifest file '../../build/asm_gazebo/asm_gazebo.egg-info/SOURCES.txt'
+[0.762s] running build
+[0.762s] running build_py
+[0.762s] running install
+[0.762s] running install_lib
+[0.763s] running install_data
+[0.763s] running install_egg_info
+[0.765s] removing '/home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages/asm_gazebo-0.0.0-py3.10.egg-info' (and everything under it)
+[0.765s] Copying ../../build/asm_gazebo/asm_gazebo.egg-info to /home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages/asm_gazebo-0.0.0-py3.10.egg-info
+[0.766s] running install_scripts
+[0.787s] writing list of installed files to '/home/robot/rg_ws/build/asm_gazebo/install.log'
+[0.808s] Invoked command in '/home/robot/rg_ws/src/asm_gazebo' returned '0': AMENT_PREFIX_PATH=/home/robot/rg_ws/install/asm_description:/home/robot/rg_ws/install/asm_node:/home/robot/rg_ws/install/asm_bringup:/home/robot/rg_ws/install/asm_gazebo:/opt/ros/humble PYTHONPATH=/home/robot/rg_ws/build/asm_gazebo/prefix_override:/home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_description/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_bringup/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_gazebo build --build-base /home/robot/rg_ws/build/asm_gazebo/build install --record /home/robot/rg_ws/build/asm_gazebo/install.log --single-version-externally-managed install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+react = asm_node.sensor_react:main
+

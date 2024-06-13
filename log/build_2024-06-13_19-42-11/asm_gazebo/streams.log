@@ -1,0 +1,35 @@
+[0.510s] Invoking command in '/home/robot/rg_ws/src/asm_gazebo': AMENT_PREFIX_PATH=/home/robot/rg_ws/install/asm_description:${AMENT_PREFIX_PATH} PYTHONPATH=/home/robot/rg_ws/build/asm_gazebo/prefix_override:/home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_gazebo build --build-base /home/robot/rg_ws/build/asm_gazebo/build install --record /home/robot/rg_ws/build/asm_gazebo/install.log --single-version-externally-managed install_data
+[0.715s] running egg_info
+[0.715s] creating ../../build/asm_gazebo/asm_gazebo.egg-info
+[0.716s] writing ../../build/asm_gazebo/asm_gazebo.egg-info/PKG-INFO
+[0.716s] writing dependency_links to ../../build/asm_gazebo/asm_gazebo.egg-info/dependency_links.txt
+[0.716s] writing entry points to ../../build/asm_gazebo/asm_gazebo.egg-info/entry_points.txt
+[0.716s] writing requirements to ../../build/asm_gazebo/asm_gazebo.egg-info/requires.txt
+[0.716s] writing top-level names to ../../build/asm_gazebo/asm_gazebo.egg-info/top_level.txt
+[0.716s] writing manifest file '../../build/asm_gazebo/asm_gazebo.egg-info/SOURCES.txt'
+[0.718s] reading manifest file '../../build/asm_gazebo/asm_gazebo.egg-info/SOURCES.txt'
+[0.718s] writing manifest file '../../build/asm_gazebo/asm_gazebo.egg-info/SOURCES.txt'
+[0.719s] running build
+[0.719s] running build_py
+[0.719s] creating /home/robot/rg_ws/build/asm_gazebo/build
+[0.719s] creating /home/robot/rg_ws/build/asm_gazebo/build/lib
+[0.719s] creating /home/robot/rg_ws/build/asm_gazebo/build/lib/asm_gazebo
+[0.719s] copying asm_gazebo/__init__.py -> /home/robot/rg_ws/build/asm_gazebo/build/lib/asm_gazebo
+[0.719s] running install
+[0.720s] running install_lib
+[0.720s] creating /home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages/asm_gazebo
+[0.720s] copying /home/robot/rg_ws/build/asm_gazebo/build/lib/asm_gazebo/__init__.py -> /home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages/asm_gazebo
+[0.721s] byte-compiling /home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages/asm_gazebo/__init__.py to __init__.cpython-310.pyc
+[0.721s] running install_data
+[0.721s] creating /home/robot/rg_ws/install/asm_gazebo/share/ament_index
+[0.721s] creating /home/robot/rg_ws/install/asm_gazebo/share/ament_index/resource_index
+[0.721s] creating /home/robot/rg_ws/install/asm_gazebo/share/ament_index/resource_index/packages
+[0.722s] copying resource/asm_gazebo -> /home/robot/rg_ws/install/asm_gazebo/share/ament_index/resource_index/packages
+[0.722s] copying package.xml -> /home/robot/rg_ws/install/asm_gazebo/share/asm_gazebo
+[0.722s] creating /home/robot/rg_ws/install/asm_gazebo/share/asm_gazebo/world
+[0.722s] copying world/sensor.sdf -> /home/robot/rg_ws/install/asm_gazebo/share/asm_gazebo/world
+[0.722s] running install_egg_info
+[0.723s] Copying ../../build/asm_gazebo/asm_gazebo.egg-info to /home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages/asm_gazebo-0.0.0-py3.10.egg-info
+[0.724s] running install_scripts
+[0.742s] writing list of installed files to '/home/robot/rg_ws/build/asm_gazebo/install.log'
+[0.760s] Invoked command in '/home/robot/rg_ws/src/asm_gazebo' returned '0': AMENT_PREFIX_PATH=/home/robot/rg_ws/install/asm_description:${AMENT_PREFIX_PATH} PYTHONPATH=/home/robot/rg_ws/build/asm_gazebo/prefix_override:/home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_gazebo build --build-base /home/robot/rg_ws/build/asm_gazebo/build install --record /home/robot/rg_ws/build/asm_gazebo/install.log --single-version-externally-managed install_data

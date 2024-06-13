@@ -1,0 +1,20 @@
+[0.834s] Invoking command in '/home/robot/rg_ws/src/asm_node': PYTHONPATH=/home/robot/rg_ws/build/asm_node/prefix_override:/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_node build --build-base /home/robot/rg_ws/build/asm_node/build install --record /home/robot/rg_ws/build/asm_node/install.log --single-version-externally-managed install_data
+[1.049s] running egg_info
+[1.049s] writing ../../build/asm_node/asm_node.egg-info/PKG-INFO
+[1.050s] writing dependency_links to ../../build/asm_node/asm_node.egg-info/dependency_links.txt
+[1.050s] writing entry points to ../../build/asm_node/asm_node.egg-info/entry_points.txt
+[1.050s] writing requirements to ../../build/asm_node/asm_node.egg-info/requires.txt
+[1.050s] writing top-level names to ../../build/asm_node/asm_node.egg-info/top_level.txt
+[1.052s] reading manifest file '../../build/asm_node/asm_node.egg-info/SOURCES.txt'
+[1.054s] writing manifest file '../../build/asm_node/asm_node.egg-info/SOURCES.txt'
+[1.054s] running build
+[1.055s] running build_py
+[1.055s] running install
+[1.055s] running install_lib
+[1.056s] running install_data
+[1.056s] running install_egg_info
+[1.057s] removing '/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages/asm_node-0.0.0-py3.10.egg-info' (and everything under it)
+[1.057s] Copying ../../build/asm_node/asm_node.egg-info to /home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages/asm_node-0.0.0-py3.10.egg-info
+[1.059s] running install_scripts
+[1.077s] writing list of installed files to '/home/robot/rg_ws/build/asm_node/install.log'
+[1.100s] Invoked command in '/home/robot/rg_ws/src/asm_node' returned '0': PYTHONPATH=/home/robot/rg_ws/build/asm_node/prefix_override:/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_node build --build-base /home/robot/rg_ws/build/asm_node/build install --record /home/robot/rg_ws/build/asm_node/install.log --single-version-externally-managed install_data

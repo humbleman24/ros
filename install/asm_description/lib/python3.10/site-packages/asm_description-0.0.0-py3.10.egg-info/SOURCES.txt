@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/asm_description/asm_description.egg-info/PKG-INFO
+../../build/asm_description/asm_description.egg-info/SOURCES.txt
+../../build/asm_description/asm_description.egg-info/dependency_links.txt
+../../build/asm_description/asm_description.egg-info/entry_points.txt
+../../build/asm_description/asm_description.egg-info/requires.txt
+../../build/asm_description/asm_description.egg-info/top_level.txt
+../../build/asm_description/asm_description.egg-info/zip-safe
+asm_description/__init__.py
+models/model.sdf
+models/vehicle_blue.sdf
+resource/asm_description
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

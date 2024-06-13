@@ -1,0 +1,20 @@
+[0.781s] Invoking command in '/home/robot/rg_ws/src/asm_description': PYTHONPATH=/home/robot/rg_ws/build/asm_description/prefix_override:/home/robot/rg_ws/install/asm_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_description build --build-base /home/robot/rg_ws/build/asm_description/build install --record /home/robot/rg_ws/build/asm_description/install.log --single-version-externally-managed install_data
+[0.993s] running egg_info
+[0.994s] writing ../../build/asm_description/asm_description.egg-info/PKG-INFO
+[0.994s] writing dependency_links to ../../build/asm_description/asm_description.egg-info/dependency_links.txt
+[0.994s] writing entry points to ../../build/asm_description/asm_description.egg-info/entry_points.txt
+[0.995s] writing requirements to ../../build/asm_description/asm_description.egg-info/requires.txt
+[0.995s] writing top-level names to ../../build/asm_description/asm_description.egg-info/top_level.txt
+[0.996s] reading manifest file '../../build/asm_description/asm_description.egg-info/SOURCES.txt'
+[0.997s] writing manifest file '../../build/asm_description/asm_description.egg-info/SOURCES.txt'
+[0.997s] running build
+[0.997s] running build_py
+[0.997s] running install
+[0.998s] running install_lib
+[0.999s] running install_data
+[0.999s] running install_egg_info
+[1.000s] removing '/home/robot/rg_ws/install/asm_description/lib/python3.10/site-packages/asm_description-0.0.0-py3.10.egg-info' (and everything under it)
+[1.001s] Copying ../../build/asm_description/asm_description.egg-info to /home/robot/rg_ws/install/asm_description/lib/python3.10/site-packages/asm_description-0.0.0-py3.10.egg-info
+[1.002s] running install_scripts
+[1.021s] writing list of installed files to '/home/robot/rg_ws/build/asm_description/install.log'
+[1.052s] Invoked command in '/home/robot/rg_ws/src/asm_description' returned '0': PYTHONPATH=/home/robot/rg_ws/build/asm_description/prefix_override:/home/robot/rg_ws/install/asm_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_description build --build-base /home/robot/rg_ws/build/asm_description/build install --record /home/robot/rg_ws/build/asm_description/install.log --single-version-externally-managed install_data

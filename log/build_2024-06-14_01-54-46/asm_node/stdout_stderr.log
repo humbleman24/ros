@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/asm_node/asm_node.egg-info/PKG-INFO
+writing dependency_links to ../../build/asm_node/asm_node.egg-info/dependency_links.txt
+writing entry points to ../../build/asm_node/asm_node.egg-info/entry_points.txt
+writing requirements to ../../build/asm_node/asm_node.egg-info/requires.txt
+writing top-level names to ../../build/asm_node/asm_node.egg-info/top_level.txt
+reading manifest file '../../build/asm_node/asm_node.egg-info/SOURCES.txt'
+writing manifest file '../../build/asm_node/asm_node.egg-info/SOURCES.txt'
+running build
+running build_py
+copying asm_node/sensor_react.py -> /home/robot/rg_ws/build/asm_node/build/lib/asm_node
+running install
+running install_lib
+copying /home/robot/rg_ws/build/asm_node/build/lib/asm_node/sensor_react.py -> /home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages/asm_node
+byte-compiling /home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages/asm_node/sensor_react.py to sensor_react.cpython-310.pyc
+running install_data
+copying package.xml -> /home/robot/rg_ws/install/asm_node/share/asm_node
+running install_egg_info
+removing '/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages/asm_node-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/asm_node/asm_node.egg-info to /home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages/asm_node-0.0.0-py3.10.egg-info
+running install_scripts
+Installing react script to /home/robot/rg_ws/install/asm_node/lib/asm_node
+writing list of installed files to '/home/robot/rg_ws/build/asm_node/install.log'

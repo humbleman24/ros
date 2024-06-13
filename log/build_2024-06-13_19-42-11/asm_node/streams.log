@@ -1,0 +1,33 @@
+[0.761s] Invoking command in '/home/robot/rg_ws/src/asm_node': PYTHONPATH=/home/robot/rg_ws/build/asm_node/prefix_override:/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_node build --build-base /home/robot/rg_ws/build/asm_node/build install --record /home/robot/rg_ws/build/asm_node/install.log --single-version-externally-managed install_data
+[0.968s] running egg_info
+[0.969s] creating ../../build/asm_node/asm_node.egg-info
+[0.969s] writing ../../build/asm_node/asm_node.egg-info/PKG-INFO
+[0.969s] writing dependency_links to ../../build/asm_node/asm_node.egg-info/dependency_links.txt
+[0.970s] writing entry points to ../../build/asm_node/asm_node.egg-info/entry_points.txt
+[0.970s] writing requirements to ../../build/asm_node/asm_node.egg-info/requires.txt
+[0.971s] writing top-level names to ../../build/asm_node/asm_node.egg-info/top_level.txt
+[0.971s] writing manifest file '../../build/asm_node/asm_node.egg-info/SOURCES.txt'
+[0.971s] reading manifest file '../../build/asm_node/asm_node.egg-info/SOURCES.txt'
+[0.972s] writing manifest file '../../build/asm_node/asm_node.egg-info/SOURCES.txt'
+[0.972s] running build
+[0.972s] running build_py
+[0.972s] creating /home/robot/rg_ws/build/asm_node/build
+[0.972s] creating /home/robot/rg_ws/build/asm_node/build/lib
+[0.972s] creating /home/robot/rg_ws/build/asm_node/build/lib/asm_node
+[0.972s] copying asm_node/__init__.py -> /home/robot/rg_ws/build/asm_node/build/lib/asm_node
+[0.973s] running install
+[0.973s] running install_lib
+[0.974s] creating /home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages/asm_node
+[0.974s] copying /home/robot/rg_ws/build/asm_node/build/lib/asm_node/__init__.py -> /home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages/asm_node
+[0.975s] byte-compiling /home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages/asm_node/__init__.py to __init__.cpython-310.pyc
+[0.975s] running install_data
+[0.975s] creating /home/robot/rg_ws/install/asm_node/share/ament_index
+[0.975s] creating /home/robot/rg_ws/install/asm_node/share/ament_index/resource_index
+[0.976s] creating /home/robot/rg_ws/install/asm_node/share/ament_index/resource_index/packages
+[0.976s] copying resource/asm_node -> /home/robot/rg_ws/install/asm_node/share/ament_index/resource_index/packages
+[0.976s] copying package.xml -> /home/robot/rg_ws/install/asm_node/share/asm_node
+[0.976s] running install_egg_info
+[0.976s] Copying ../../build/asm_node/asm_node.egg-info to /home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages/asm_node-0.0.0-py3.10.egg-info
+[0.976s] running install_scripts
+[0.994s] writing list of installed files to '/home/robot/rg_ws/build/asm_node/install.log'
+[1.016s] Invoked command in '/home/robot/rg_ws/src/asm_node' returned '0': PYTHONPATH=/home/robot/rg_ws/build/asm_node/prefix_override:/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_node build --build-base /home/robot/rg_ws/build/asm_node/build install --record /home/robot/rg_ws/build/asm_node/install.log --single-version-externally-managed install_data
