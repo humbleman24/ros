@@ -28,7 +28,7 @@ class VelocityPublisher(Node):
         lidar_range = msg.ranges
         detect_wall = False
         for dist in lidar_range:
-            if dist < 0.8:
+            if dist < 1:
                 detect_wall = True
                 break
 
