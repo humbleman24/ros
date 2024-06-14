@@ -1,0 +1,21 @@
+[0.856s] Invoking command in '/home/robot/rg_ws/src/asm_node': PYTHONPATH=/home/robot/rg_ws/build/asm_node/prefix_override:/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_node build --build-base /home/robot/rg_ws/build/asm_node/build install --record /home/robot/rg_ws/build/asm_node/install.log --single-version-externally-managed install_data
+[1.111s] running egg_info
+[1.111s] writing ../../build/asm_node/asm_node.egg-info/PKG-INFO
+[1.112s] writing dependency_links to ../../build/asm_node/asm_node.egg-info/dependency_links.txt
+[1.112s] writing entry points to ../../build/asm_node/asm_node.egg-info/entry_points.txt
+[1.112s] writing requirements to ../../build/asm_node/asm_node.egg-info/requires.txt
+[1.113s] writing top-level names to ../../build/asm_node/asm_node.egg-info/top_level.txt
+[1.114s] reading manifest file '../../build/asm_node/asm_node.egg-info/SOURCES.txt'
+[1.115s] writing manifest file '../../build/asm_node/asm_node.egg-info/SOURCES.txt'
+[1.115s] running build
+[1.115s] running build_py
+[1.116s] running install
+[1.116s] running install_lib
+[1.117s] running install_data
+[1.117s] running install_egg_info
+[1.119s] removing '/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages/asm_node-0.0.0-py3.10.egg-info' (and everything under it)
+[1.119s] Copying ../../build/asm_node/asm_node.egg-info to /home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages/asm_node-0.0.0-py3.10.egg-info
+[1.120s] running install_scripts
+[1.142s] Installing react script to /home/robot/rg_ws/install/asm_node/lib/asm_node
+[1.143s] writing list of installed files to '/home/robot/rg_ws/build/asm_node/install.log'
+[1.169s] Invoked command in '/home/robot/rg_ws/src/asm_node' returned '0': PYTHONPATH=/home/robot/rg_ws/build/asm_node/prefix_override:/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_node build --build-base /home/robot/rg_ws/build/asm_node/build install --record /home/robot/rg_ws/build/asm_node/install.log --single-version-externally-managed install_data

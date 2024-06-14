@@ -48,6 +48,7 @@
         <topic>imu</topic>
       </sensor>
     </link>
+    
 
     <link name='left_wheel'>
       <pose>0 0.6 0.4 -1.5707 0 0</pose>
@@ -284,8 +285,8 @@
           </scan>
           <range>
             <min>0.08</min>
-            <max>10.0</max>
-            <resolution>0.01</resolution>
+            <max>5.0</max>
+            <resolution>0.005</resolution>
           </range>
         </lidar>
         <visualize>true</visualize>

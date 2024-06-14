@@ -1,0 +1,21 @@
+[0.566s] Invoking command in '/home/robot/rg_ws/src/asm_bringup': AMENT_PREFIX_PATH=/home/robot/rg_ws/install/asm_gazebo:/home/robot/rg_ws/install/asm_node:/home/robot/rg_ws/install/asm_description:/home/robot/rg_ws/install/asm_bringup:/opt/ros/humble PYTHONPATH=/home/robot/rg_ws/build/asm_bringup/prefix_override:/home/robot/rg_ws/install/asm_bringup/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_description/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_bringup/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_bringup build --build-base /home/robot/rg_ws/build/asm_bringup/build install --record /home/robot/rg_ws/build/asm_bringup/install.log --single-version-externally-managed install_data
+[0.795s] running egg_info
+[0.795s] writing ../../build/asm_bringup/asm_bringup.egg-info/PKG-INFO
+[0.796s] writing dependency_links to ../../build/asm_bringup/asm_bringup.egg-info/dependency_links.txt
+[0.796s] writing entry points to ../../build/asm_bringup/asm_bringup.egg-info/entry_points.txt
+[0.796s] writing requirements to ../../build/asm_bringup/asm_bringup.egg-info/requires.txt
+[0.796s] writing top-level names to ../../build/asm_bringup/asm_bringup.egg-info/top_level.txt
+[0.798s] reading manifest file '../../build/asm_bringup/asm_bringup.egg-info/SOURCES.txt'
+[0.798s] writing manifest file '../../build/asm_bringup/asm_bringup.egg-info/SOURCES.txt'
+[0.799s] running build
+[0.799s] running build_py
+[0.799s] running install
+[0.799s] running install_lib
+[0.802s] running install_data
+[0.802s] copying launch/display_rviz2.launch.py -> /home/robot/rg_ws/install/asm_bringup/share/asm_bringup/launch
+[0.802s] running install_egg_info
+[0.803s] removing '/home/robot/rg_ws/install/asm_bringup/lib/python3.10/site-packages/asm_bringup-0.0.0-py3.10.egg-info' (and everything under it)
+[0.803s] Copying ../../build/asm_bringup/asm_bringup.egg-info to /home/robot/rg_ws/install/asm_bringup/lib/python3.10/site-packages/asm_bringup-0.0.0-py3.10.egg-info
+[0.804s] running install_scripts
+[0.824s] writing list of installed files to '/home/robot/rg_ws/build/asm_bringup/install.log'
+[0.843s] Invoked command in '/home/robot/rg_ws/src/asm_bringup' returned '0': AMENT_PREFIX_PATH=/home/robot/rg_ws/install/asm_gazebo:/home/robot/rg_ws/install/asm_node:/home/robot/rg_ws/install/asm_description:/home/robot/rg_ws/install/asm_bringup:/opt/ros/humble PYTHONPATH=/home/robot/rg_ws/build/asm_bringup/prefix_override:/home/robot/rg_ws/install/asm_bringup/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_gazebo/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_node/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_description/lib/python3.10/site-packages:/home/robot/rg_ws/install/asm_bringup/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/asm_bringup build --build-base /home/robot/rg_ws/build/asm_bringup/build install --record /home/robot/rg_ws/build/asm_bringup/install.log --single-version-externally-managed install_data

@@ -70,7 +70,7 @@ def generate_launch_description():
     )
     
     # slam launch
-    use_sim_time = LaunchConfiguration('use_sim_time', default='true')
+    # use_sim_time = LaunchConfiguration('use_sim_time', default='true')
     resolution = LaunchConfiguration('resolution', default='0.05')
 
     publish_period_sec = LaunchConfiguration('publish_period_sec', default='1.0')
@@ -86,7 +86,7 @@ def generate_launch_description():
         executable='cartographer_node',
         name='cartographer_node',
         output='screen',
-        parameters=[{'use_sim_time': use_sim_time}],
+        parameters=[{'use_sim_time': True}],
         arguments=['-configuration_directory', configuration_directory,
                    '-configuration_basename', configuration_basename])
 
@@ -95,7 +95,7 @@ def generate_launch_description():
         executable='cartographer_occupancy_grid_node',
         name='cartographer_occupancy_grid_node',
         output='screen',
-        parameters=[{'use_sim_time': use_sim_time}],
+        parameters=[{'use_sim_time': True}],
         arguments=['-resolution', resolution, '-publish_period_sec', publish_period_sec])
 
     rviz_node = Node(
@@ -103,7 +103,7 @@ def generate_launch_description():
         executable='rviz2',
         name='rviz2',
         arguments=['-d', rviz_config_dir],
-        parameters=[{'use_sim_time': use_sim_time}],
+        parameters=[{'use_sim_time': True}],
         output='screen')
     
 

@@ -9,7 +9,6 @@ setup.py
 ../../build/asm_description/asm_description.egg-info/top_level.txt
 ../../build/asm_description/asm_description.egg-info/zip-safe
 asm_description/__init__.py
-models/model.sdf
 models/vehicle_blue.sdf
 resource/asm_description
 test/test_copyright.py

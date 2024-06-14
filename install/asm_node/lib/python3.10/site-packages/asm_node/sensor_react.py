@@ -16,7 +16,7 @@ class VelocityPublisher(Node):
         if self.count > 800:
             self.count = 0
             r = random.uniform(-1,1)
-            if r < 0:
+            if r < -8:
                 self.flag = 0
             else:
                 self.flag = 1
@@ -28,16 +28,16 @@ class VelocityPublisher(Node):
         lidar_range = msg.ranges
         detect_wall = False
         for dist in lidar_range:
-            if dist < 1:
+            if dist < 0.8:
                 detect_wall = True
                 break
 
         cmd_vel_value = Twist()
         if detect_wall:
             cmd_vel_value.linear.x = 0.0
-            cmd_vel_value.angular.z = r
+            cmd_vel_value.angular.z = 0.7
         else:
-            cmd_vel_value.linear.x = 2.0
+            cmd_vel_value.linear.x = 1.5
             cmd_vel_value.angular.z = 0.0
         self.publisher_.publish(cmd_vel_value)
 
